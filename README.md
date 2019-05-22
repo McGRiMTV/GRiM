@@ -13,7 +13,7 @@ To add GRiM to your server please click on the GRiM logo
 ## Support
 For support regarding GRiM we ask that you join our support server on Discord where all of your support needs will be helped
 
-![Discord Banner 2](https://discordapp.com/api/guilds/530487557171970049/widget.png?style=banner2)
+![Discord Banner](https://discordapp.com/api/guilds/530487557171970049/widget.png?style=banner2)
 
 ## Code of Conduct
 The Code of Conduct is viewable in the [CODE_OF_CONDUCT.md](https://github.com/McGRiMTV/GRiM/blob/master/CODE_OF_CONDUCT.md)
