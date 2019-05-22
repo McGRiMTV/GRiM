@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 # About GRiM
 GRiM is a Discord bot for your Discord server that features a simple and intuitive design. It brings many features to the table such as moderation, role management, music bot, and much more that will greatly simplify the management for your server and provide many fun, useful, and interesting features for your members.
 
@@ -11,6 +13,12 @@ To add GRiM to your server please click on the GRiM logo
 ## Support
 For support regarding GRiM we ask that you join our support server on Discord where all of your support needs will be helped
 
-[![Join Our Discord]](http://discord.gg/PyEuN2f)
+![Discord Banner 2](https://discordapp.com/api/guilds/530487557171970049/widget.png?style=banner2)
 
-Copyright (c) 2019, McGRiMTV All rights reserved.
+## Code of Conduct
+The Code of Conduct is viewable in the [CODE_OF_CONDUCT.md](https://github.com/McGRiMTV/GRiM/blob/master/CODE_OF_CONDUCT.md)
+
+## License
+This project is protected under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+Copyright (c) 2018-2019, McGRiMTV All rights reserved.
